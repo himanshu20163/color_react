@@ -10,7 +10,6 @@ function App() {
   };
   return (
     <div style={myStyle}>
-      <Movie name="sikanar" />
       {/* <Cards name="himanshu"/> */}
     <Cards head="#FF6663" backgroundColor="#FF6663"  name="PINK" color="#FF6663"/>
     <Cards head="#333333" backgroundColor="#333333" name="GRAY" color="#333333"/>
